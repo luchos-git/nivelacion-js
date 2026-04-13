@@ -6,3 +6,4 @@ document.querySelector('#menu').innerHTML='<ul><li><a href="index.html">|Inicio|
 
 document.querySelector('.pie').innerHTML=' <p>Luciano Trevissan y Agustin Benavidez </p>';
 // const footer='<p>Luciano Trevissan y Agustin Benavidez </p>';
+
